@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on AI-powered and full-stack web applications using Python,  Generative AI.<br>🤝 I’m looking for help with advanced system design, production-level AI deployment, and open-source contributions.<br>🌱 I’m currently learning Agentic AI and production-ready backend development.<br>💬 Ask me about Python, React, FastAPI, Machine Learning, Generative AI, and frontend development.<br>⚡ Fun fact: I enjoy turning crazy AI ideas into real working projects.
 
 
